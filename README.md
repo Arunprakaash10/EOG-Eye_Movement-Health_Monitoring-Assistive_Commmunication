@@ -37,10 +37,10 @@ This project aims to develop an EOG-based system for analyzing eye movements in 
   - **Communication through a user-friendly interface** for people with limited mobility.
 
 ## Hardware Requirements
-- Arduino UNO R3 / STM32 Nucleo Board
+- ESP32 NoseMCU - with WiFi connectivity
 - BioAmp EXG Pill
 - Gel electrodes
 
 ## Software Requirements
 - Python
-- STM32 CubeIDE / MatLab
+- Arduino IDE
